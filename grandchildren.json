@@ -1,0 +1,22 @@
+{
+  "grandchildren": [
+    {
+      "id": 1,
+      "name": "Emery",
+      "photo_url": "URL_TO_EMERYS_PHOTO.jpg",
+      "birthday": "2015-01-27"
+    },
+    {
+      "id": 2,
+      "name": "Brielle",
+      "photo_url": "URL_TO_BRIELLES_PHOTO.jpg",
+      "birthday": "2015-01-01"
+    },
+    {
+      "id": 3,
+      "name": "Maddie",
+      "photo_url": "URL_TO_MADDIES_PHOTO.jpg",
+      "birthday": "2015-12-03"
+    }
+  ]
+}
